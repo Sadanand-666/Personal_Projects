@@ -1,0 +1,7 @@
+##Gemini API Key
+
+AIzaSyB0XXH9BACyNCY92DYRPV1GVG029IjVwz4
+
+##chatgpt-4 API KEY
+
+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
